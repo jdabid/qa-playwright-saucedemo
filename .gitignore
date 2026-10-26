@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Pytest / Test artifacts
+.pytest_cache/
+test-results/
+reports/
+playwright-report/
+blob-report/
+.coverage
+htmlcov/
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Internal training materials (not part of the public framework)
+CORREO_PRUEBA_TECNICA.md
+INSTRUCCIONES_RETO.md
+GUIA_APRENDIZAJE_80_20.md
+LIBRETO_DEFENSA_RETO.md
+PASO_A_PASO_SOLUCION.md
+calculadora.py
+practica/
