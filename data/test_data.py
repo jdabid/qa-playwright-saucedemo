@@ -45,7 +45,7 @@ class TestUsers:
 class CustomerData:
     """Default shipping customer information."""
     DEFAULT_CUSTOMER = CustomerInfo(
-        first_name="Cristian",
+        first_name="David",
         last_name="Castro",
         postal_code="110111",
     )

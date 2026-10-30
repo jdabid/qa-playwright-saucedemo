@@ -121,7 +121,7 @@ qa-playwright-saucedemo/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/cristiandavidcastro/qa-playwright-saucedemo.git
+   git clone https://github.com/jdabid/qa-playwright-saucedemo.git
    cd qa-playwright-saucedemo
    ```
 
